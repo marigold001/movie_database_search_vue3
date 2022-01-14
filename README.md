@@ -1,4 +1,5 @@
 # movie_db_search_vue3
+![Movie search](https://i.imgur.com/PXxWibt.png)
 
 ## Project setup
 ```
